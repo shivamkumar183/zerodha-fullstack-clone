@@ -38,14 +38,14 @@ This project demonstrates complete frontend, backend, authentication, and databa
 
 ## 📂 Project Structure
 
-
+```
 zerodha-fullstack-clone/
 │
-├── frontend/ # Landing pages & authentication
-├── dashboard/ # Trading dashboard UI
-├── backend/ # REST APIs & database logic
+├── frontend/    # Landing pages & authentication
+├── dashboard/   # Trading dashboard UI
+├── backend/     # REST APIs & database logic
 └── README.md
-
+```
 
 ---
 
